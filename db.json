@@ -1,8 +1,4 @@
-{
-  "logIn": [
-    { 
-      "login": "username",
-      "password" : "111111"
-    }
-  ],
+{ 
+  "login": "username",
+  "password" : "111111"
 }
